@@ -1,0 +1,14 @@
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.exe
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.deps.json
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.runtimeconfig.json
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.dll
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.pdb
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.AssemblyInfoInputs.cache
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.AssemblyInfo.cs
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.dll
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\obj\Debug\net8.0\refint\CadastroClientes.dll
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.pdb
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.genruntimeconfig.cache
+C:\Projetos\Portfolio\CadastroClientes\CadastroClientes\obj\Debug\net8.0\ref\CadastroClientes.dll
